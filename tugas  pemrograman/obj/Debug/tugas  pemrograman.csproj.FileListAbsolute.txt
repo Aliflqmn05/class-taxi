@@ -1,0 +1,7 @@
+D:\tugas  pemrograman\tugas  pemrograman\bin\Debug\tugas  pemrograman.exe.config
+D:\tugas  pemrograman\tugas  pemrograman\bin\Debug\tugas  pemrograman.exe
+D:\tugas  pemrograman\tugas  pemrograman\bin\Debug\tugas  pemrograman.pdb
+D:\tugas  pemrograman\tugas  pemrograman\obj\Debug\tugas  pemrograman.csproj.AssemblyReference.cache
+D:\tugas  pemrograman\tugas  pemrograman\obj\Debug\tugas  pemrograman.csproj.CoreCompileInputs.cache
+D:\tugas  pemrograman\tugas  pemrograman\obj\Debug\tugas  pemrograman.exe
+D:\tugas  pemrograman\tugas  pemrograman\obj\Debug\tugas  pemrograman.pdb
